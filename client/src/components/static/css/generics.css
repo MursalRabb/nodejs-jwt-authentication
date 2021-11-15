@@ -1,0 +1,54 @@
+.wd-100 {
+    width: 100%;
+}
+
+
+.m-t-12{
+    margin-top: 12px;
+}
+
+.m-b-12 {
+    margin-bottom: 12px;
+}
+
+.m-l-12 {
+    margin-left: 12px;
+}
+.m-l-16 {
+    margin-left: 16px;
+}
+
+.m-r-12 {
+    margin-right: 12px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-flex-clm {
+    flex-direction: column;
+}
+
+.aln-slf {
+    
+    justify-self: flex-start;
+}
+
+.f-1 {
+    flex: 1;
+}
+
+
+
+.bg-wht {
+    background-color: #fff;
+}
+
+.wht {
+    color: #fff;
+}
+
+.bld {
+    font-weight: bolder;
+}

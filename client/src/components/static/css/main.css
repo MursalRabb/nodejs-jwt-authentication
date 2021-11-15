@@ -1,0 +1,12 @@
+.main {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100%;
+    height: fit-content;
+    z-index: 999;
+}

@@ -1,0 +1,23 @@
+.signup {
+    display: flex;
+    width: 40%;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(
+        0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.signup-cnt {
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.signup-cnt button {
+    margin-top: 12px;
+    color: #fff;
+}
